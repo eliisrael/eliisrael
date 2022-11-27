@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eli Melo
-- 👀 I’m interested in general programming -- you know: solve problems, build entire applications, create algorithms, just cool stuffs :)
+- 👀 I’m interested in general programming -- you know: solve problems, build entire applications, create algorithms, just cool stuff :)
 - 🌱 I’m currently learning nodejs
-- 📫 How to reach me: eliisrael@gmail.com
+- 📫 How to reach me: elimelo@gmail.com
 
 <!---
 eliisrael/eliisrael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
