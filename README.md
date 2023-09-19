@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eli Melo
 - 👀 I’m interested in general programming -- you know: solve problems, build entire applications, create algorithms, just cool stuff :)
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning react
 - 📫 How to reach me: elimelo@gmail.com
 
 <!---
